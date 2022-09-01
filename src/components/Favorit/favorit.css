@@ -1,0 +1,51 @@
+.favorit_heading {
+    padding-top: 100px;
+    padding-bottom: 64px;
+
+}
+.favorit_box {
+    display: flex;
+    justify-content: space-between;
+}
+.favorit_left_box {
+    width: 50%;
+    position: relative;
+}
+
+.favorit_right_box {
+    width: 50%;
+}
+
+.favoritimg-1 {
+    width: 330.91px;
+    height: 455px;
+    left: 0px;
+    top: 0px;
+    margin-bottom: 200px;
+}
+.favoritimg-2 {
+    position: absolute;
+    width: 450px;
+    height: 490px;
+    left: 90px;
+    top: 95px;
+}
+
+.favorit_right_box h4 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 150%;
+    padding-bottom: 30px;
+}
+
+.favorit_right_box p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 30px;
+    color: #203239;
+    padding-bottom: 30px;
+}

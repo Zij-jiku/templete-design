@@ -1,0 +1,21 @@
+.box {
+    display: flex;
+    padding-top: 40px;
+}
+.logo {
+    width: 20%;
+}
+.menuItem {
+    width: 80%;
+}
+.navbarUl {
+    display: flex;
+    justify-content: flex-end;
+}
+.menuItem ul li {
+    padding-left: 100px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #203239;
+    cursor: pointer;
+}

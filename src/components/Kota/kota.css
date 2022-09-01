@@ -1,0 +1,10 @@
+.kota_box {
+    display: flex;
+}
+
+.kota_box_one {
+    width: 30%;
+    padding: 15px;
+    margin: 18px;
+    cursor: pointer;
+}
